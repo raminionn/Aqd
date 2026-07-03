@@ -1,0 +1,46 @@
+NON-COMPETE CLAUSES IN PAKISTAN — STANDARDS AND LEGAL POSITION
+
+LEGAL STATUS OF NON-COMPETES IN PAKISTAN
+Non-compete clauses in Pakistan are governed by Section 27 of the Contract Act 
+1872, which states that any agreement in restraint of trade is void. Pakistani 
+courts have consistently held that overly broad non-compete agreements are 
+unenforceable. However, courts do allow reasonable and limited restraints.
+
+WHAT MAKES A NON-COMPETE REASONABLE IN PAKISTAN
+A non-compete is more likely to be considered reasonable if it is limited to 
+1 year or less in duration. Courts are unlikely to enforce non-competes longer 
+than 1 year. The geographic scope should be limited — national or regional, 
+not global. The scope of restricted activity should be specific — not "any 
+competing business" but "direct competitors in the same product category." 
+There should be some compensation or consideration for the restriction.
+
+DURATION GUIDELINES
+6 months non-compete: Standard and generally enforceable.
+1 year non-compete: Acceptable and common in senior roles.
+2 year non-compete: Aggressive, likely unenforceable under Pakistani law.
+3 years or more: Almost certainly unenforceable and should be a red flag.
+
+NON-SOLICITATION VS NON-COMPETE
+Non-solicitation clauses (you cannot poach clients or employees) are treated 
+differently from non-compete clauses and are more likely to be enforced. 
+If a contract has both, analyse them separately. Non-solicitation for 1 to 2 
+years is generally acceptable.
+
+GARDEN LEAVE
+Some Pakistani contracts include garden leave clauses where the employee is 
+paid during the notice period but required to stay home and not work for 
+competitors. This is a legitimate alternative to a non-compete during the 
+notice period. If the employee is on garden leave and being paid, this is 
+not a red flag.
+
+INTELLECTUAL PROPERTY DURING EMPLOYMENT
+All work created by an employee during employment in their job role belongs 
+to the employer under Pakistani law. This includes code, designs, written 
+materials, and inventions. This is standard and not a red flag. However, 
+if the contract claims ownership of work done outside working hours on 
+personal equipment, this is aggressive and worth flagging.
+
+POST-EMPLOYMENT IP ASSIGNMENT
+Contracts that require employees to assign IP created after termination are 
+overreaching. If the contract says "any invention relating to our business 
+for 2 years after termination belongs to us," this is a red flag.

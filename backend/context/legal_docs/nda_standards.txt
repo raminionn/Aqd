@@ -1,0 +1,57 @@
+NDA STANDARDS IN PAKISTAN — WHAT IS NORMAL AND WHAT IS A RED FLAG
+
+WHAT AN NDA IS
+A Non-Disclosure Agreement (NDA) is a contract where one or both parties 
+agree not to share confidential information with third parties. In Pakistan, 
+NDAs are common in employment, freelance, partnership, and investor contexts. 
+They are enforceable under the Contract Act 1872.
+
+MUTUAL VS ONE-SIDED NDA
+A mutual NDA protects both parties' confidential information equally. 
+A one-sided NDA only protects one party — typically the company. 
+One-sided NDAs are standard when a company is sharing information with 
+a contractor or employee. They are a red flag only if the definition of 
+confidential information is excessively broad.
+
+DEFINITION OF CONFIDENTIAL INFORMATION
+The NDA must clearly define what counts as confidential. A definition 
+that says "all information of any kind shared between the parties" is 
+dangerously broad. A good definition limits confidential information 
+to specific categories — business plans, client lists, financial data, 
+proprietary technology, trade secrets. If the definition is so broad 
+that it could include public information or general knowledge, it is 
+a red flag.
+
+DURATION
+Standard NDA duration in Pakistan is 2 to 3 years. NDAs lasting more 
+than 5 years are aggressive. Perpetual NDAs — those with no expiry date 
+— are common in employment contexts for genuine trade secrets but should 
+be scrutinised. A perpetual NDA for general business information is 
+aggressive and worth flagging.
+
+EXCLUSIONS FROM CONFIDENTIALITY
+A well-drafted NDA always includes exclusions — information that is 
+already public, information the recipient already knew, information 
+received from a third party without restriction, and information 
+required to be disclosed by law. If the NDA has no exclusions, it 
+is poorly drafted and a red flag.
+
+RETURN OF INFORMATION
+Good NDAs require the receiving party to return or destroy all 
+confidential information when the relationship ends. If the NDA 
+does not address what happens to confidential information after 
+termination, this is a missing clause.
+
+REMEDIES FOR BREACH
+NDAs in Pakistan typically state that breach will cause irreparable 
+harm and entitle the disclosing party to seek an injunction without 
+needing to prove financial damage. This is standard. NDAs that 
+specify very large fixed penalties for breach should be flagged 
+as the amount should be proportionate.
+
+WHAT IS COMMONLY MISSING FROM PAKISTANI NDAs
+No exclusions for publicly available information.
+No process for handling legally compelled disclosure.
+No return or destruction of information clause.
+No specification of which court has jurisdiction.
+No clear definition of what counts as a breach.

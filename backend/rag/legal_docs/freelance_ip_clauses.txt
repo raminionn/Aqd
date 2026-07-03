@@ -1,0 +1,80 @@
+FREELANCE CONTRACT CLAUSES — PAKISTANI FREELANCERS WITH INTERNATIONAL CLIENTS
+
+CONTEXT
+Pakistani freelancers frequently sign contracts drafted by foreign clients 
+in the US, UK, EU, and elsewhere. These contracts are often written under 
+foreign law and contain clauses that are aggressive by Pakistani standards 
+or that quietly transfer significant rights. The following covers the most 
+important clauses to analyse.
+
+IP OWNERSHIP — WORK FOR HIRE
+Most international freelance contracts contain a work for hire clause stating 
+that all work created under the contract belongs to the client, not the 
+freelancer. This is standard and expected. It is not a red flag unless it 
+extends to work created outside the scope of the contract.
+
+IP OWNERSHIP — BACKGROUND IP
+Some contracts claim ownership of tools, frameworks, libraries, or processes 
+the freelancer brings to the project. This is aggressive and a red flag. 
+A freelancer's pre-existing code libraries, processes, and methods should 
+remain the freelancer's property. Contracts should only claim ownership 
+of the specific deliverable, not the tools used to create it.
+
+MORAL RIGHTS WAIVER
+International contracts, especially those governed by US law, often include 
+a waiver of moral rights. This means the client can modify your work, 
+remove your name from it, or use it in ways you might find objectionable 
+without your permission. Pakistani law does not have a strong moral rights 
+framework but freelancers should be aware they are waiving any creative 
+attribution claim.
+
+PAYMENT TERMS
+Standard international freelance payment terms are net-30, meaning the 
+client pays within 30 days of invoice. Net-60 or net-90 is aggressive 
+and common in large companies — it is worth flagging. Contracts should 
+specify the currency of payment, the payment method, and who bears 
+transfer fees. If the contract is silent on currency, this is a gap.
+
+KILL FEE
+A kill fee is compensation paid if the client cancels the project after 
+work has begun. International contracts often have kill fee provisions. 
+Pakistani freelancers should check if the contract specifies what they 
+get paid if the project is cancelled halfway through. Absence of a kill 
+fee clause is worth flagging as a missing clause.
+
+REVISION POLICY
+Contracts should specify how many rounds of revisions are included in 
+the price and what happens if the client requests more. Contracts that 
+give the client unlimited revision rights without additional payment 
+are unfair and worth flagging.
+
+CONFIDENTIALITY
+It is standard for freelance contracts to include an NDA component 
+requiring the freelancer not to disclose client information. This is 
+not a red flag. However, NDAs that restrict the freelancer from 
+mentioning the client relationship in a portfolio or CV are more 
+restrictive and worth flagging as something to negotiate.
+
+GOVERNING LAW AND DISPUTE RESOLUTION
+International freelance contracts often specify that disputes are 
+governed by the law of the client's country — US state law, UK law, 
+EU law. This means if there is a dispute, the Pakistani freelancer 
+would theoretically need to pursue it in a foreign court, which is 
+impractical. Contracts should ideally specify international arbitration 
+or Pakistani law for Pakistani freelancers. A foreign governing law 
+clause is not necessarily a red flag but should be flagged as a 
+watch out so the freelancer understands the practical implication.
+
+INDEMNIFICATION
+Many international contracts include an indemnification clause where 
+the freelancer agrees to cover the client's legal costs if a third 
+party sues the client because of the freelancer's work. Broad 
+indemnification clauses with no cap on liability are aggressive red 
+flags. The freelancer should push for indemnification to be limited 
+to cases of the freelancer's proven negligence and capped at the 
+total contract value.
+
+LIABILITY CAP
+Contracts should cap the freelancer's maximum liability at the total 
+amount paid under the contract. Contracts with no liability cap expose 
+the freelancer to unlimited financial risk and are a red flag.

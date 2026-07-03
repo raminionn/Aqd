@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #faf7f2;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+}
+
+.font-display {
+  font-family: 'Space Grotesk', sans-serif;
+}
