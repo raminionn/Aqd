@@ -19,7 +19,7 @@ export default function Footer() {
 
         <div className="flex items-center gap-3">
           <motion.a
-            href="https://github.com"
+            href="https://github.com/raminionn/Aqd"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ x: 2, y: 2, boxShadow: "2px 2px 0px 0px #000" }}
